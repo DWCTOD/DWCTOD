@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Welcome and hope you have a good journey.
-[![DWCTOD's github stats](https://github-readme-stats.vercel.app/api?username=DWCTOD&show_icons=true&theme=radical)
+![DWCTOD's github stats](https://github-readme-stats.vercel.app/api?username=DWCTOD&show_icons=true&theme=radical)
 [](https://github.com/DWCTOD/github-readme-stats)
 
 <!--
