@@ -2,7 +2,8 @@
 
 ### Welcome and hope you have a good journey.
 ![DWCTOD's github stats](https://github-readme-stats.vercel.app/api?username=DWCTOD&show_icons=true&theme=radical)
-[](https://github.com/DWCTOD/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DWCTOD&layout=compact)](https://github.com/DWCTOD/github-readme-stats)
 
 <!--
 **DWCTOD/DWCTOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
